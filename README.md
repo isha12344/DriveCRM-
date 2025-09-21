@@ -16,4 +16,5 @@ o	Gives tips, alerts & performance insights.
 4. Teamwork & Speed
 o	Share notes and comments with team members.
 o	Bulk actions to assign or update many leads at once.
+**[View the design on Readdy](https://readdy.ai/project/aa05b998-466b-4e49-a4be-6f34f0aedf31)**
 
